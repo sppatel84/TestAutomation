@@ -1,0 +1,13 @@
+
+Web UI Testing:-
+
+Bug Report:-
+1. In Full name, country and URL text box when we click on that text box the placeholder text should not be hide
+2. As per business requirement all fields are mandatory but I can save without entering the mandatory fields
+3. If I enter any other name and click to save the information then I can view in success message but full name won't be change
+
+Note:-
+1. If you want run the test case please change the chromedriver path because it's my local machine path
+2. In second test case I pass my name but test case is failed because of in message politician name won't be changed. You can see in the console with the full details.
+   I put the assertion for that condition. If test case is failed then you can see in the console.
+
